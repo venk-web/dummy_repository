@@ -1,0 +1,4 @@
+name: venky
+education: btech
+sex: male
+hobby: insta
